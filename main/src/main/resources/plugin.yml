@@ -1,0 +1,6 @@
+name: Flylib Module
+version: ${project.version}
+main: com.github.bun133.flylibmodule.FlylibModulePlugin
+api-version: 1.15
+authors: [ Bun133 ]
+website: https://twitter.com/bun133_
